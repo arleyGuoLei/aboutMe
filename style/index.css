@@ -1,6 +1,7 @@
 *{
   margin: 0;
 }
+
 /* 头部 */
 .header{
   position: fixed;
@@ -135,6 +136,21 @@
   color: #ffffffd3;
 }
 
+.screen-1__info-value>a:link{
+  color: #ffffffd3;
+}
+
+.screen-1__info-value>a:active{
+  color: #ffffffd3;
+}
+
+.screen-1__info-value>a:visited{
+  color: #ffffffd3;
+}
+
+.screen-1__info-value>a:hover{
+  color: #ffffffd3;
+}
 
 .screen-1__wrap-info-right{
   height: 256px;
